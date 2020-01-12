@@ -51,5 +51,3 @@ Several things can be improved, they are:
 - `load.js` can have a internal cache (with limited size and expire time). The cache can cache all fetched URLs and reuse them later.
 - `load.js` should later support retry.
 - `load.js` should support auth.
-
-# fetchUrls
